@@ -1,0 +1,89 @@
+.header {
+    /* image de 768px de large */
+    background-image: url('assets\images\gallery\concerts\aaron-paul-concert-optimized.webp');
+    background-image: url('assets\images\gallery\concerts\austin-neill-spectacle-optimized.webp');
+    background-image: url('assets\images\gallery\entreprise\ali-morshedlou-entrepreneur-optimized.webp');
+    background-image: url('assets\images\gallery\entreprise\jason-goodman-entreprise-optimized.webp');
+    background-image: url('assets\images\gallery\entreprise\mateus-campos-felipe-startup-optimized.webp');
+    background-image: url('assets\images\gallery\mariage\hannah-busing-mariage-optimized.webp');
+    background-image: url('assets\images\gallery\mariage\jakob-owens-mariage-optimized.webp');
+    background-image: url('assets\images\gallery\portraits\ade-tunji-portrait-optimized.webp');
+    background-image: url('assets\images\gallery\portraits\nino-van-prattenburg-photo-portrait-optimized.webp');
+    background-image: url('assets\images\slider\edward-cisneros-mariage-optimized.webp');
+    background-image: url('assets\images\slider\nicholas-green-concert-optimized.webp');
+    background-image: url('assets\images\slider\ryoji-iwata-entreprise-optimized.webp');
+    background-image: url('assets\images\camera-optimized.webp');
+    background-image: url('assets\images\instagram-optimized.webp');
+    background-image: url('assets\images\nina-optimized.webp');
+
+  
+    /* l'image est centrée et recouvre intégralement la zone */
+    background-position: center;
+    background-size: cover;
+  }
+  
+  @media (min-width: 769px) {
+    .header {
+      /* image de 992px de large */
+      background-image: url('assets\images\gallery\concerts\aaron-paul-concert-optimized.webp');
+    background-image: url('assets\images\gallery\concerts\austin-neill-spectacle-optimized.webp');
+    background-image: url('assets\images\gallery\entreprise\ali-morshedlou-entrepreneur-optimized.webp');
+    background-image: url('assets\images\gallery\entreprise\jason-goodman-entreprise-optimized.webp');
+    background-image: url('assets\images\gallery\entreprise\mateus-campos-felipe-startup-optimized.webp');
+    background-image: url('assets\images\gallery\mariage\hannah-busing-mariage-optimized.webp');
+    background-image: url('assets\images\gallery\mariage\jakob-owens-mariage-optimized.webp');
+    background-image: url('assets\images\gallery\portraits\ade-tunji-portrait-optimized.webp');
+    background-image: url('assets\images\gallery\portraits\nino-van-prattenburg-photo-portrait-optimized.webp');
+    background-image: url('assets\images\slider\edward-cisneros-mariage-optimized.webp');
+    background-image: url('assets\images\slider\nicholas-green-concert-optimized.webp');
+    background-image: url('assets\images\slider\ryoji-iwata-entreprise-optimized.webp');
+    background-image: url('assets\images\camera-optimized.webp');
+    background-image: url('assets\images\instagram-optimized.webp');
+    background-image: url('assets\images\nina-optimized.webp');
+
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .header {
+      /* image de 1200px de large */
+      background-image: url('assets\images\gallery\concerts\aaron-paul-concert-optimized.webp');
+      background-image: url('assets\images\gallery\concerts\austin-neill-spectacle-optimized.webp');
+      background-image: url('assets\images\gallery\entreprise\ali-morshedlou-entrepreneur-optimized.webp');
+      background-image: url('assets\images\gallery\entreprise\jason-goodman-entreprise-optimized.webp');
+      background-image: url('assets\images\gallery\entreprise\mateus-campos-felipe-startup-optimized.webp');
+      background-image: url('assets\images\gallery\mariage\hannah-busing-mariage-optimized.webp');
+      background-image: url('assets\images\gallery\mariage\jakob-owens-mariage-optimized.webp');
+      background-image: url('assets\images\gallery\portraits\ade-tunji-portrait-optimized.webp');
+      background-image: url('assets\images\gallery\portraits\nino-van-prattenburg-photo-portrait-optimized.webp');
+      background-image: url('assets\images\slider\edward-cisneros-mariage-optimized.webp');
+      background-image: url('assets\images\slider\nicholas-green-concert-optimized.webp');
+      background-image: url('assets\images\slider\ryoji-iwata-entreprise-optimized.webp');
+      background-image: url('assets\images\camera-optimized.webp');
+      background-image: url('assets\images\instagram-optimized.webp');
+      background-image: url('assets\images\nina-optimized.webp');
+
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .header {
+      /* image de 2500px de large */
+      background-image: url('assets\images\gallery\concerts\aaron-paul-concert-optimized.webp');
+    background-image: url('assets\images\gallery\concerts\austin-neill-spectacle-optimized.webp');
+    background-image: url('assets\images\gallery\entreprise\ali-morshedlou-entrepreneur-optimized.webp');
+    background-image: url('assets\images\gallery\entreprise\jason-goodman-entreprise-optimized.webp');
+    background-image: url('assets\images\gallery\entreprise\mateus-campos-felipe-startup-optimized.webp');
+    background-image: url('assets\images\gallery\mariage\hannah-busing-mariage-optimized.webp');
+    background-image: url('assets\images\gallery\mariage\jakob-owens-mariage-optimized.webp');
+    background-image: url('assets\images\gallery\portraits\ade-tunji-portrait-optimized.webp');
+    background-image: url('assets\images\gallery\portraits\nino-van-prattenburg-photo-portrait-optimized.webp');
+    background-image: url('assets\images\slider\edward-cisneros-mariage-optimized.webp');
+    background-image: url('assets\images\slider\nicholas-green-concert-optimized.webp');
+    background-image: url('assets\images\slider\ryoji-iwata-entreprise-optimized.webp');
+    background-image: url('assets\images\camera-optimized.webp');
+    background-image: url('assets\images\instagram-optimized.webp');
+    background-image: url('assets\images\nina-optimized.webp');
+
+    }
+  }
