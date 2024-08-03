@@ -353,3 +353,9 @@ input[type="submit"] {
 		width: 80%;
 	}
 }
+
+.nav-link.active-tag {
+    color:black !important;
+    background-color: gold !important;
+  }
+  
